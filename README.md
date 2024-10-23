@@ -1,4 +1,4 @@
-# Mental healt chatbot
+# Mental health chatbot
 This was meant to be a multilingual mental health chatbot. However, the part that worked well is in English. Due to time constraints and overly ambitious initial plans, it became more of a mental health IR system. In this repository, you can find the code for the baseline model.
 
 We use *Llama-2–7b-chat-hf* (Meta, 2024), which has 7 billion parameters and is pre-trained on multilinugal data.
